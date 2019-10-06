@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-username = '' # Enter Your SRM Wifi Username 
+username = '' # Enter Your SRM Registration Number
 password = '' # Enter Your SRM Wifi password
 
 url = 'https://iac.srmist.edu.in/connect/PortalMain'  # SRM Wifi Login URL
